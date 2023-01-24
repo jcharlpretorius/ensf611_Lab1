@@ -66,10 +66,4 @@ Use these functions to implement the tasks as directed and answer the questions 
 - Use the results obtained to summarize your findings in *4. Observations/Interpretation*. 
 - In a section *5. Reflection*, include a sentence or two about what you liked/disliked, found interesting/confusing/challangeing/motivating while working on this assignment.
 
-During development, checkin progress with git and use descriptive commit messages.
-
-## Optional work
-Optionally, you may investigate the effect of reducing the number of features using PCA.
-How well the models perform by using only the first two principal components of the original feature matrix? How do these results compare to using all features or only the first 2 features?
-
-See section *6. Optional: Reducing the number of features using PCA*
+During development, check-in progress with git and use descriptive commit messages.
